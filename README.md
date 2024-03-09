@@ -1,8 +1,9 @@
-Project focus
+#Project focus
 
-# Machine learning projects 
+## Machine learning projects 
 
-# deep learning projects
+## deep learning projects
 
-# data science projects
+## data science projects
 
+## Alternative AI programming
