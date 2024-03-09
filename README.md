@@ -17,3 +17,7 @@
 ### MLOPS machine learning
 
 ### Research / Experiment projects
+
+### Reinforcement learning
+
+###  Graph nerual networks
