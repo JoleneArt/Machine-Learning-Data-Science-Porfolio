@@ -3,6 +3,7 @@
 ###### Here are some of the groups of each sub-field
 
 ### Machine learning projects 
+##### ???
 
 ### deep learning projects
 ##### Medical Diagonse Model
@@ -20,10 +21,13 @@
 ### Generative AI
 
 ### MLOPS machine learning
+##### ???
 
 ### Research / Experiment projects
+##### ???
 
 ### Reinforcement learning
+##### ???
 
 ###  Graph nerual networks
 ##### Sarcasm Learning Bot 	
