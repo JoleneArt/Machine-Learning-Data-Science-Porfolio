@@ -17,8 +17,10 @@
 
 
 ### API x machine learning 
-##### Weather Stream             
+##### Weather Stream   
+
 ### Generative AI
+##### ???
 
 ### MLOPS machine learning
 ##### ???
