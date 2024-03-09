@@ -1,6 +1,6 @@
 ## Project focus
 ###### Different projects which each has their own folder uses focused technology or techqiune that I specialize inside the project itself.
-###### Here are some of the groups of each sub-field
+###### Although they may have overlapping categories I sorted them,, Here are some of the groups of each sub-field
 
 ### Machine learning projects 
 ##### ???
