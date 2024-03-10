@@ -4,3 +4,7 @@
 ####                   Inputted into the model which it would predict 
 ####                   Implemented into a user-friendly to interact with
 ####                   Deployed into Amazon Web Service (AWS) 
+
+#### Technologies involved:
+####                         Tensorflow, Pandas, Numpy, AWS, Requests, Plotly, Matplotlib
+####                         BeautifulSoup, RNNS, LSTMs, Django
