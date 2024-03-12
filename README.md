@@ -1,4 +1,4 @@
-## Project focus
+## Project focus - 30 projects in construction (running them takes a while)
 ###### Different projects which each has their own folder uses focused technology or techqiune that I specialize inside the project itself.
 ###### Although they may have overlapping categories I sorted them,, Here are some of the groups of each sub-field
 
