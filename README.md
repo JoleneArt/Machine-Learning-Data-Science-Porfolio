@@ -3,11 +3,14 @@
 ###### Although they may have overlapping categories I sorted them,, Here are some of the groups of each sub-field
 
 ### Vanilla machine learning projects 
+// For the problems that just need a basic ML algorithm
 ##### ???
 
 ### deep learning projects
 ##### Medical Diagonse Model
+
 ### data science projects
+##### ???
 
 ### Alternative AI programming
 ##### Pronounce this 
