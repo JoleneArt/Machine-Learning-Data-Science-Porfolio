@@ -8,7 +8,7 @@
 
 #### **data science projects**
 
-####***Projects with data science focused tasks***
+#### ***Projects with data science focused tasks***
 ##### ???
 
 #### **Alternative AI programming**
