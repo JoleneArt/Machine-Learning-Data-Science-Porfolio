@@ -4,7 +4,7 @@
 # Machine Learning Data Science 
 ## Any topics inside machine learning and data science
 ## From
-### vanilla machine learning models like XGBoost, suport vector machines
+### vanilla machine learning models like XGBoost, support vector machines
 
 ### Vanilla machine learning projects 
 // For the problems that just need a basic ML algorithm
