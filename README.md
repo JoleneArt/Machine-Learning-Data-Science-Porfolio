@@ -3,7 +3,6 @@
 
 #### **deep learning projects**
 
-// Projects utilizing Neural Networks 
 ###### Medical Diagonse Model
 
 #### **data science projects**
@@ -12,17 +11,17 @@
 
 #### **Alternative AI programming**
 
-##### Pronounce this 
+###### Pronounce this 
 
 #### **Explainable AI (XAI)**
 
-##### Medical Diagonse Model
+###### Medical Diagonse Model
 
 #### **Diffusion models**
 ##### ???
 
 #### **API x machine learning** 
-##### Weather Stream   
+###### Weather Stream   
 
 #### **Generative AI**
 ##### ???
@@ -37,4 +36,4 @@
 ##### ???
 
 ####  **Graph nerual networks**
-##### Sarcasm Learning Bot 	
+###### Sarcasm Learning Bot 	
