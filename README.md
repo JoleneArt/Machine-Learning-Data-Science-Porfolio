@@ -6,9 +6,9 @@
 // For the problems that just need a basic ML algorithm
 ##### ???
 
-### deep learning projects
+##### deep learning projects
 // Projects utilizing Neural Networks 
-##### Medical Diagonse Model
+###### Medical Diagonse Model
 
 ### data science projects
 // Projects with data science focused tasks
