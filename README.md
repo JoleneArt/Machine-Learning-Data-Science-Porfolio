@@ -1,6 +1,10 @@
 ## Project focus - 30 projects in construction (running them takes a while)
 ###### Different projects which each has their own folder uses focused technology or techqiune that I specialize inside the project itself.
 ###### Although they may have overlapping categories I sorted them,, Here are some of the groups of each sub-field
+# Machine Learning Data Science 
+## Any topics inside machine learning and data science
+## From
+### vanilla machine learning models like XGBoost, suport vector machines
 
 ### Vanilla machine learning projects 
 // For the problems that just need a basic ML algorithm
