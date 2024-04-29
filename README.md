@@ -11,7 +11,6 @@
 
 #### **Alternative AI programming**
 
-###### Pronounce this 
 
 #### **Explainable AI (XAI)**
 
